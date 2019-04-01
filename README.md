@@ -1,12 +1,9 @@
-### Front-end - HTML, CSS e JS
 
-- high-quality wireframe
-- cards static design
-- animation cards
+## Accessible memory game [-- under development --]
+
+A game dedicated to all people, especially blind people. 
 
 
-### Back-end - Node.js, MySQL
+## Test it here :)
 
-- record best pontuations on database
-- record audio voice phrases in EN, ES and PT-BR
-- 
+https://alencarfff.github.io/accessible_memory_game/
