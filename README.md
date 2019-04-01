@@ -1,2 +1,12 @@
-# Accessible Memory Game [under development]
-A acessible memory game dedicated to all people, especially to blind people, that can play just saying the cards position, like "A-10", "F-5", etc.
+### Front-end - HTML, CSS e JS
+
+- high-quality wireframe
+- cards static design
+- animation cards
+
+
+### Back-end - Node.js, MySQL
+
+- record best pontuations on database
+- record audio voice phrases in EN, ES and PT-BR
+- 
